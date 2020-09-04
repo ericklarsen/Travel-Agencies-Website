@@ -1,0 +1,2 @@
+## Travel Agencies Website
+This is the website that I've created for one of the travel agencies in Pekanbaru, Indonesia. Website built using PHP language and Codeigniter framework. The feature developed on this website is that users can view detailed information provided by the company such as travel packages, hotel prices and car rental, as well as other things related to traveling.
